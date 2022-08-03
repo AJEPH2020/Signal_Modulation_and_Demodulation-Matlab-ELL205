@@ -1,0 +1,2 @@
+# Signal_Modulation_and_Demodulation-Matlab-ELL205
+ Implemented all three modulation & demodulation algorithms (i.e. Amplitude-shift keying (ASK) that represents digital data as variations in the amplitude of a carrier wave, Frequency shift keying (FSK) in which the frequency of the carrier signal varies according to the digital signal changes & Phase shift keying (PSK) in which the phase of the carrier signal is changed by varying the sine and cosine inputs at a particular time)
